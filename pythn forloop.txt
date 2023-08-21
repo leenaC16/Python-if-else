@@ -1,0 +1,7 @@
+num = [0, 1, 2]
+
+for i in num
+print(i)
+
+else:
+    print("No num left.")
